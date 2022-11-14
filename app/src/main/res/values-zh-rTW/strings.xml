@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">聊天室</string>
+    <string name="welcome_back">歡迎 回來</string>
+    <string name="login_to_continue">登錄以繼續</string>
+    <string name="email">電子信箱</string>
+    <string name="password">密碼</string>
+    <string name="sign_in">登入</string>
+    <string name="create_new_account">創建新帳號</string>
+    <string name="add_image">加入頭像</string>
+    <string name="name">姓名</string>
+    <string name="confirm_password">確認密碼</string>
+    <string name="sign_up">註冊</string>
+    <string name="select_user">選擇好友</string>
+    <string name="type_a_message">輸入訊息</string>
+    <string name="online">線上</string>
+    <string name="offline">離線</string>
+
+</resources>
